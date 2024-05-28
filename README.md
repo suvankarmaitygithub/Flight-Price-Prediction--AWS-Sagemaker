@@ -8,6 +8,8 @@ This comprehensive course is designed to take you through the entire workflow of
 - VS Code
 - Python 3.8 or higher
 - git installed in local
+- Familiarity with Python programming language
+- Basic understanding of machine learning concepts
 
 # How to run?
 ### STEPS:
