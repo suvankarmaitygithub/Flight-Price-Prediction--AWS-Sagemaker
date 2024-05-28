@@ -39,6 +39,10 @@ Pull all files from the cloud repository
 git pull origin main --rebase
 ```
 
+```bash
+git pull
+```
+
 Push all files to the cloud repository
 
 ```bash
